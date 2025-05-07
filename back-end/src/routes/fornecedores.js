@@ -10,4 +10,4 @@ import {Router} from 'express'
  router.delete('/:id', controller.delete)
   
  export default router
-  
+  //
